@@ -59,7 +59,7 @@ const menu = {
     },
   };
   
-  menu.addDishToCourse('appetizers', 'Ceasar Salad', 4.25);
+  menu.addDishToCourse('appetizers', 'Ceasar Salad', 4.50);
   menu.addDishToCourse('appetizers', 'Prawn Coctail', 4.50);
   menu.addDishToCourse('appetizers', 'Garlic Bread', 3.50);
   
