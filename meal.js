@@ -59,9 +59,9 @@ const menu = {
     },
   };
   
-  menu.addDishToCourse('appetizers', 'Ceasar Salad', 4.50);
-  menu.addDishToCourse('appetizers', 'Prawn Coctail', 4.50);
-  menu.addDishToCourse('appetizers', 'Garlic Bread', 3.50);
+  menu.addDishToCourse('appetizers', 'Ceasar Salad', 4.00);
+  menu.addDishToCourse('appetizers', 'Prawn Coctail', 4.00);
+  menu.addDishToCourse('appetizers', 'Garlic Bread', 3.00);
   
   menu.addDishToCourse('mains', 'Lasagna', 9.75);
   menu.addDishToCourse('mains', 'Ribeye Steak', 14.95);
